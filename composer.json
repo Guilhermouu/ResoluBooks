@@ -1,0 +1,14 @@
+{
+    "name": "resolubooks/guilhermo",
+    "description": "Livraria Resolubooks",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guilhermo Santos",
+            "email": "guilhermo4t2l@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
